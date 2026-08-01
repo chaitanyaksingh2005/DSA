@@ -10,13 +10,14 @@ public:
          {
             return mid;
         } 
-        else if (nums[mid] < target) 
+        else if (nums[mid] <= target) 
         {
-            low = mid + 1;
+        
+            return helper(nums, target, mid+1, high);
         } 
         else 
         {
-            high = mid - 1;
+           return helper(nums, target, low,mid-1);
         }
         
         return helper(nums, target, low, high);
