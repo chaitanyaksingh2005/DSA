@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/chaitanyaksingh2005/DSA/tree/master/0070-climbing-stairs) |
+| [0779-k-th-symbol-in-grammar](https://github.com/chaitanyaksingh2005/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -46,4 +47,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/chaitanyaksingh2005/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+## Recursion
+|  |
+| ------- |
+| [0779-k-th-symbol-in-grammar](https://github.com/chaitanyaksingh2005/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
