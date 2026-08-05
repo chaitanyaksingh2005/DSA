@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyaksingh2005/DSA/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/chaitanyaksingh2005/DSA/tree/master/0053-maximum-subarray) |
+| [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
@@ -50,9 +51,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
 | [0779-k-th-symbol-in-grammar](https://github.com/chaitanyaksingh2005/DSA/tree/master/0779-k-th-symbol-in-grammar) |
 ## Recursion
 |  |
 | ------- |
 | [0779-k-th-symbol-in-grammar](https://github.com/chaitanyaksingh2005/DSA/tree/master/0779-k-th-symbol-in-grammar) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
