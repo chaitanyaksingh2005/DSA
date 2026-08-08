@@ -15,12 +15,11 @@ public:
         if (start > n || (n - start + 1) < k) {
             return;
         }
-
-        temp.push_back(start);
-        solve(n, k - 1, temp, start + 1);
-        temp.pop_back(); // Backtrack
-
-        solve(n, k, temp, start + 1);
+        for (int i = start; i <= n; i++) {
+            temp.push_back(i);
+            solve(n, k - 1, temp, i + 1);
+            temp.pop_back(); // Backtrack
+        }
     }
 
     vector<vector<int>> combine(int n, int k) {
