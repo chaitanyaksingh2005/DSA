@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/chaitanyaksingh2005/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chaitanyaksingh2005/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chaitanyaksingh2005/DSA/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanyaksingh2005/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -70,4 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanyaksingh2005/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/chaitanyaksingh2005/DSA/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chaitanyaksingh2005/DSA/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/chaitanyaksingh2005/DSA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
