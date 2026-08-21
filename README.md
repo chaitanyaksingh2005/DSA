@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
+| [1598-crawler-log-folder](https://github.com/chaitanyaksingh2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/chaitanyaksingh2005/DSA/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0844-backspace-string-compare](https://github.com/chaitanyaksingh2005/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaitanyaksingh2005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/chaitanyaksingh2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Binary Search
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/chaitanyaksingh2005/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaitanyaksingh2005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1598-crawler-log-folder](https://github.com/chaitanyaksingh2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Bracket Sequences
 |  |
 | ------- |
