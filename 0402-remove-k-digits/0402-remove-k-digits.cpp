@@ -33,7 +33,7 @@ public:
         {
             i++;
         }
-           final = final.substr(i);
+         final.erase(0, i);
 
 //sirf 0 wala case jab empty hojaye or 0 ho ans tb wala 
         if (final.empty()) {
