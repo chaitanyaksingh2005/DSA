@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/chaitanyaksingh2005/DSA/tree/master/0739-daily-temperatures) |
 | [1598-crawler-log-folder](https://github.com/chaitanyaksingh2005/DSA/tree/master/1598-crawler-log-folder) |
 ## Hash Table
 |  |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0402-remove-k-digits](https://github.com/chaitanyaksingh2005/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/chaitanyaksingh2005/DSA/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/chaitanyaksingh2005/DSA/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/chaitanyaksingh2005/DSA/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1598-crawler-log-folder](https://github.com/chaitanyaksingh2005/DSA/tree/master/1598-crawler-log-folder) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaitanyaksingh2005/DSA/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/chaitanyaksingh2005/DSA/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
