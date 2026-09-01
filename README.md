@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/chaitanyaksingh2005/DSA/tree/master/0040-combination-sum-ii) |
 | [0053-maximum-subarray](https://github.com/chaitanyaksingh2005/DSA/tree/master/0053-maximum-subarray) |
 | [0078-subsets](https://github.com/chaitanyaksingh2005/DSA/tree/master/0078-subsets) |
+| [0456-132-pattern](https://github.com/chaitanyaksingh2005/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/chaitanyaksingh2005/DSA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/chaitanyaksingh2005/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0456-132-pattern](https://github.com/chaitanyaksingh2005/DSA/tree/master/0456-132-pattern) |
 | [0704-binary-search](https://github.com/chaitanyaksingh2005/DSA/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/chaitanyaksingh2005/DSA/tree/master/0020-valid-parentheses) |
 | [0402-remove-k-digits](https://github.com/chaitanyaksingh2005/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/chaitanyaksingh2005/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/chaitanyaksingh2005/DSA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/chaitanyaksingh2005/DSA/tree/master/0739-daily-temperatures) |
@@ -105,10 +108,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaitanyaksingh2005/DSA/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/chaitanyaksingh2005/DSA/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/chaitanyaksingh2005/DSA/tree/master/0739-daily-temperatures) |
 ## Greedy
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/chaitanyaksingh2005/DSA/tree/master/0402-remove-k-digits) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/chaitanyaksingh2005/DSA/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
