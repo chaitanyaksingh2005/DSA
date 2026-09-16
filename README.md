@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/chaitanyaksingh2005/DSA/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chaitanyaksingh2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0496-next-greater-element-i](https://github.com/chaitanyaksingh2005/DSA/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chaitanyaksingh2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/chaitanyaksingh2005/DSA/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/chaitanyaksingh2005/DSA/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/chaitanyaksingh2005/DSA/tree/master/0344-reverse-string) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/chaitanyaksingh2005/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/chaitanyaksingh2005/DSA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/chaitanyaksingh2005/DSA/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/chaitanyaksingh2005/DSA/tree/master/0077-combinations) |
